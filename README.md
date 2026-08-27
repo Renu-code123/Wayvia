@@ -29,7 +29,8 @@
 
 Traditional travel planners are **static**. Once an itinerary is generated as a PDF or calendar invite, it fails the moment real-world disruptions strike — whether it's an unexpected rainstorm, flight delay, transit strike, or sudden venue closure.
 
-**Wayvia** is an **autonomous, agentic travel intelligence platform** that continuously monitors live travel conditions, detects friction points before they ruin a trip, and automatically re-synthesizes optimized alternative itineraries in real-time. Powered by Google Gemini AI and multi-agent decision architecture, Wayvia shifts 
+**Wayvia** is an **autonomous, agentic travel intelligence platform** that continuously monitors live travel conditions, detects friction points before they ruin a trip, and automatically re-synthesizes optimized alternative itineraries in real-time. Powered by Google Gemini AI and multi-agent decision architecture, Wayvia shifts travel planning from **passive scheduling** to **active, autonomous protection**.
+
 ---
 
 ## 🚀 Key Features & Capabilities
