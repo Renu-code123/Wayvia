@@ -9,6 +9,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-API-8E44AD?style=for-the-badge&logo=googlegemini)](https://deepmind.google/technologies/gemini/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-OSM-199900?style=for-the-badge&logo=leaflet)](https://leafletjs.com/)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Wayvia-orange?style=for-the-badge&logo=producthunt)](https://www.producthunt.com/products/wayvia-travel-smarter-always)
 
 ---
 
